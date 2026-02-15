@@ -1,7 +1,7 @@
 # Hey👋, 这里是 **某某** **（￣︶￣）↗**
 
 ![某某's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catfootbeats&show_icons=true&theme=tokyonight)
-[![某某's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catfootbeats)](https://github.com/anuraghazra/github-readme-stats)
+![某某's GitHub stats](https://github-readme-stats.vercel.app/api?username=Catfootbeats)
 
 ![天依](https://img.shields.io/badge/∞-66ccff?style=flat-square)
 [![博客](https://img.shields.io/badge/Website-博客-66ccff?style=flat-square)](https://catfootbeats.icu/)
